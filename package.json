@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "NODE_ENV=production webpack --mode production",
-    "start": "NODE_ENV=development webpack serve --mode production"
+    "start": "NODE_ENV=development webpack serve --mode development"
   },
   "dependencies": {
     "@babel/cli": "^7.12.10",
