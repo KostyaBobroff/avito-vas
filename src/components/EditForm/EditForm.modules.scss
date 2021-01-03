@@ -1,0 +1,9 @@
+@import 'vars';
+
+.editor {
+  padding: $spacing-l;
+
+  border-radius: $border-radius-m;
+
+  border: 1px solid $main-grey-color;
+}

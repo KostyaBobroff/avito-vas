@@ -1,0 +1,17 @@
+@import "vars";
+
+.wrapper {
+  display: flex;
+  padding: $spacing-l;
+  justify-content: space-between;
+}
+
+.editorForm {
+  display: inline-block;
+  width: 300px;
+  margin-right: 30px;
+}
+
+.controls {
+  margin-top: $spacing-xl;
+}
